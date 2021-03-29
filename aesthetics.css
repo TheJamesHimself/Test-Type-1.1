@@ -1,0 +1,42 @@
+body
+{
+  background-color: black;
+  color: white;
+  font-family: Segoe UI, Calibri;
+}
+a
+{
+  color: #007FFF;
+}
+
+#background
+{
+  width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#header
+{
+  text-align: center;
+  background-color: #8B0000;
+}
+#navigation
+{
+  width: 500px;
+  float: left;
+}
+ul
+{
+  list-style-type: none;
+}
+#home
+{
+  width: 1000px;
+  float: right;
+  text-align: center;
+}
+#footer
+{
+  clear: both;
+  text-align: right;
+}
